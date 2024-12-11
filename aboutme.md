@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Grégoire Peudevin. I have the following qualities:
+My name is Grégoire Peudevin test. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
