@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: ADA 2024: Unveiling the secrets behind Youtube categories
 
 # Your name to show in the footer
-author: Some Person
+author: Grenobelgium
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Introduction"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
